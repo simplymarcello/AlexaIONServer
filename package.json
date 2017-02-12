@@ -1,0 +1,24 @@
+{
+  "name": "alexaionserver",
+  "version": "1.0.0",
+  "description": "Alexa ION Server Hosted on Heroku",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplymarcello/AlexaIONServer.git"
+  },
+  "author": "simplymarcello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simplymarcello/AlexaIONServer/issues"
+  },
+  "homepage": "https://github.com/simplymarcello/AlexaIONServer#readme"
+}
