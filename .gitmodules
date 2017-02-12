@@ -1,0 +1,6 @@
+[submodule "AlexaIONSkill"]
+	path = AlexaIONSkill
+	url = https://github.com/simplymarcello/AlexaIONSkill.git
+[submodule "apps/AlexaIONSkill"]
+	path = apps/AlexaIONSkill
+	url = https://github.com/simplymarcello/AlexaIONSkill.git
