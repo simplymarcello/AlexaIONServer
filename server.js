@@ -7,7 +7,7 @@ var server = new AlexaAppServer( {
     httpsPort: 443,
     port: 80,
     privateKey: 'privatekey.pem',
-    certificate: 'server.crt'
+    certificate: 'server.crt',
 
 } );
 
